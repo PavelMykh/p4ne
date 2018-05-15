@@ -17,4 +17,4 @@ print(A_V)
 
 pyplot.plot(A_V, C_V)
 pyplot.plot(A_V, D_V)
-pyplot.show(grap1)
+pyplot.show()
